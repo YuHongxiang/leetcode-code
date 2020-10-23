@@ -27,6 +27,7 @@
       //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int maxArea(int[] height) {
+        return 1;
 
     }
 }
