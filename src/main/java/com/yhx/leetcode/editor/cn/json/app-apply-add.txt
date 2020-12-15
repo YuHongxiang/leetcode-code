@@ -1,0 +1,22 @@
+{
+	"applyId": 20400,
+	"auditRemark": "good",   "auditStatus":   "1000",
+	"objEnvironmentRelList": [
+		{
+			"environmentSpecId": 902,
+			"environmentUsage": "1001"
+		},
+		{
+			"environmentSpecId": 903,
+			"environmentUsage": "1002"
+		},
+		{
+			"environmentSpecId": 900,
+			"environmentUsage": "2001"
+		},
+		{
+			"environmentSpecId": 901,
+			"environmentUsage": "2002"
+		}
+	]
+}
