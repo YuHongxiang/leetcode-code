@@ -1,6 +1,4 @@
-package com.yhx.leetcode.editor.cn.utils;
-
-import java.util.Arrays;
+package com.yhx.leetcode.editor.cn;
 
 public class MainTest {
     public static void main(String[] args) throws InterruptedException {
