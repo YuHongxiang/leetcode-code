@@ -4,12 +4,12 @@ import java.util.concurrent.*;
 
 public class Main {
     public static void main(String[] args) {
-        // 创建一个固定大小的线程池:
+        // åˆ›å»ºä¸€ä¸ªå›ºå®šå¤§å°�çš„çº¿ç¨‹æ± :
         ExecutorService es = Executors.newFixedThreadPool(4);
         for (int i = 0; i < 6; i++) {
             es.submit(new Task("" + i));
         }
-        // 关闭线程池:
+        // å…³é—­çº¿ç¨‹æ± :拒绝
         es.shutdown();
     }
 }
